@@ -48,4 +48,8 @@
 
 <img src="https://raw.githubusercontent.com/hikz/hikz/output/snake.svg" alt="Snake animation" />
 
-###
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
