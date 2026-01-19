@@ -84,9 +84,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                1 hr 23 mins    ████████████████████░░░░░   80.02 %
-Java Properties   20 mins         █████░░░░░░░░░░░░░░░░░░░░   19.95 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Go   1 hr 23 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
