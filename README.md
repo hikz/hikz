@@ -77,11 +77,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                  57 mins               █████████████████████▒░░░   85.49 %
-HTTP Request          7 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
-SQL                   2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-IDEA_MODULE           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Markdown              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
