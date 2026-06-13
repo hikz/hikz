@@ -77,9 +77,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   20 mins               ████████████████▓░░░░░░░░   66.13 %
-PHP    9 mins                ███████▒░░░░░░░░░░░░░░░░░   29.12 %
-CSS    1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
