@@ -77,11 +77,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             5 hrs 34 mins         ██████████████████████▒░░   89.29 %
-Text               13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Requirements.txt   13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-Markdown           8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Kotlin             2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Python             7 hrs 9 mins          █████████████████████▓░░░   86.80 %
+Text               30 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Requirements.txt   13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Markdown           8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+GitIgnore file     4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
